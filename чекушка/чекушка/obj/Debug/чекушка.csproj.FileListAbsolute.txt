@@ -1,0 +1,11 @@
+C:\Users\ip522-11\source\repos\чекушка\чекушка\bin\Debug\ПР 13 BD_Tur_Firm.mdb
+C:\Users\ip522-11\source\repos\чекушка\чекушка\bin\Debug\чекушка.exe.config
+C:\Users\ip522-11\source\repos\чекушка\чекушка\bin\Debug\чекушка.exe
+C:\Users\ip522-11\source\repos\чекушка\чекушка\bin\Debug\чекушка.pdb
+C:\Users\ip522-11\source\repos\чекушка\чекушка\obj\Debug\чекушка.csprojAssemblyReference.cache
+C:\Users\ip522-11\source\repos\чекушка\чекушка\obj\Debug\чекушка.Form1.resources
+C:\Users\ip522-11\source\repos\чекушка\чекушка\obj\Debug\чекушка.Properties.Resources.resources
+C:\Users\ip522-11\source\repos\чекушка\чекушка\obj\Debug\чекушка.csproj.GenerateResource.cache
+C:\Users\ip522-11\source\repos\чекушка\чекушка\obj\Debug\чекушка.csproj.CoreCompileInputs.cache
+C:\Users\ip522-11\source\repos\чекушка\чекушка\obj\Debug\чекушка.exe
+C:\Users\ip522-11\source\repos\чекушка\чекушка\obj\Debug\чекушка.pdb
